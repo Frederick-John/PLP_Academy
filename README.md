@@ -1,2 +1,13 @@
-# PLP_Academy
-A structured collection of assignments and projects completed as part of the PLP Academy. The repository covers four core learning areas: Python Programming, Web Development, Database Management, and Software Development.
+# PLP Academy Assignments Repository
+
+Welcome to the official repository for my **PLP Academy Assignments**. This repository is a structured portfolio of my hands-on projects and exercises completed throughout the program. It is organized into four primary domains:
+
+1. **Python Programming**
+2. **Web Development**
+3. **Database Management**
+4. **Software Development Principles**
+
+## 📁 Folder Structure
+
+Each folder in this repository represents a major subject area within the PLP Academy curriculum:
+

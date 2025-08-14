@@ -8,7 +8,7 @@ Original file is located at
 """
 
 # Basic Calculator Program
-# Author: [Your Name]
+# Author: Frederick Ohwoavworiete
 # Description: A simple calculator that performs basic arithmetic operations (+, -, *, /) on two user-input numbers.
 
 def basic_calculator():
